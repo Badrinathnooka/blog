@@ -19,8 +19,6 @@ While the code may not be perfect and may still contain bugs, the goal is to pro
 11. [Contact](#contact)
 
 
-## 🎥 Demo
-[![PostShare](https://github.com/56duong/angular-springboot-blog-webapp/assets/77065902/58714ef0-01c8-441e-be85-5da51b469809)](https://youtu.be/FJDRKFNwubs?t=80&si=t7TiaLit9I77-UMY)
 
 
 ## 🌟 Features
